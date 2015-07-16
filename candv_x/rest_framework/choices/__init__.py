@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from .fields import ChoicesField
+from .fields import ChoiceField
